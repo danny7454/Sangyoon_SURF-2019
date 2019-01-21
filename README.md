@@ -11,11 +11,11 @@ Sequence of GFP F Primer gene is 5’ GGTCCTTCTTGAGTTTGTAAC 3’, so the actual 
 Ampicillin is needed as antibiotics to selectively grow the plasmids that I want to test. In the experiment, reporter proteins, GFP and RFP, demonstrate the intensity of expressions of particular genes. These intensities can be measured through software like ImageJ, or Kodak and be analyzed with the unit of grey level (1 AU). There would be two inducible promoters such as ParaBAD and AmpR promoter in the plasmid, and they need arabinose and lactose or IPTG as inducers, respectively. Among many restriction sites in the plasmid, I selected SgrAI from 3858 to 3865 and MscI from 4106 to 4111. Each of them had only one restriction site and they were most close to the inserted part of the plasmid.
 
 I presupposed that conditions for expressing all genes are optimal. In conclusion, there are four genes in both control and test plasmids, but the GFP gene in the test plasmid will not be expressed due to the newly inserted hairpin sequence. Thus, the final output will lack a part of the protein. From the result, I can deduce the function of the unexpressed protein, and what would happen to the function of the rest of the protein if the part of bacterial DNA isn’t translated. Results can be plotted after observing the intensity of protein expression. However, further research will be necessary to precisely find out mechanisms. For example, if the function of translated protein is weakened, it could be because the untranslated gene was used to reinforce the protein function or because the 3D structure of protein is changed.
-
+.
 
 Supplementary information
 1) 5’ CGCCGCAAACCCCGCCCCTGACAGGGCGGGGTTTCGCCGC 3’
-
+.
 
 Reference
 
