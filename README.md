@@ -17,7 +17,11 @@ Supplementary information
 
 Reference
 Harley et al, 1987, Analysis of E. coli Promoter Sequences
+
 “Homepage.” Addgene, www.addgene.org/.
+
 Oxford Genetics Ltd. “Oxford Genetics Ltd - Building Better Biologics for Our Customers.” Oxford Genetics, www.oxfordgenetics.com/.
+
 Reece, Jane B, et al. Campbell Biology. Pearson Canada, 2018.
+
 Wayne, D. (2018). A plasmid editor.
