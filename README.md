@@ -16,6 +16,7 @@ Supplementary information
 1) 5’ CGCCGCAAACCCCGCCCCTGACAGGGCGGGGTTTCGCCGC 3’
 
 Reference
+
 Harley et al, 1987, Analysis of E. coli Promoter Sequences
 
 “Homepage.” Addgene, www.addgene.org/.
