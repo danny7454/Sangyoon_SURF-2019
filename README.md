@@ -13,11 +13,11 @@ Ampicillin is needed as antibiotics to selectively grow the plasmids that I want
 I presupposed that conditions for expressing all genes are optimal. In conclusion, there are four genes in both control and test plasmids, but the GFP gene in the test plasmid will not be expressed due to the newly inserted hairpin sequence. Thus, the final output will lack a part of the protein. From the result, I can deduce the function of the unexpressed protein, and what would happen to the function of the rest of the protein if the part of bacterial DNA isn’t translated. Results can be plotted after observing the intensity of protein expression. However, further research will be necessary to precisely find out mechanisms. For example, if the function of translated protein is weakened, it could be because the untranslated gene was used to reinforce the protein function or because the 3D structure of protein is changed.
 
 
-<Supplementary information>
+Supplementary information
 1) 5’ CGCCGCAAACCCCGCCCCTGACAGGGCGGGGTTTCGCCGC 3’
 
 
-<Reference>
+Reference
 
   Harley et al, 1987, Analysis of E. coli Promoter Sequences
 
