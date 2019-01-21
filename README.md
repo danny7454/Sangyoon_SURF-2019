@@ -29,6 +29,8 @@ Reference
 
   Wayne, D. (2018). A plasmid editor.
   
-  #Task 2
+  Task 2
+  
+  Task 2 can be done through analysis based on the data. When the data is given like the task, I can just simply make dataframe of it, and put it into the tool. Then, I can choose which plot to use to effectively show and interpret the result.
   
   
