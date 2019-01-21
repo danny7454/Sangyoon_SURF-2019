@@ -21,7 +21,7 @@ Reference
 
   Harley et al, 1987, Analysis of E. coli Promoter Sequences
 
-  “Homepage.” Addgene, www.addgene.org/.
+  Addgene, www.addgene.org/.
 
   Oxford Genetics Ltd. “Oxford Genetics Ltd - Building Better Biologics for Our Customers.” Oxford Genetics, www.oxfordgenetics.com/.
 
